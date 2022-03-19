@@ -1,9 +1,10 @@
 import Meal from './components/meal';
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
     <div className="App">
+
       <Meal />
     </div>
   );

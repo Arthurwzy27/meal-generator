@@ -1,0 +1,29 @@
+.header {
+  text-align: center;
+}
+
+.meal-data {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 1rem;
+  text-align: justify;
+
+}
+
+.icon-meal {
+  width: 80%;
+  height: auto;
+}
+
+.left {
+  li {
+    text-decoration: none;
+  }
+}
+
+.right{
+  width: 50%;
+  .recipe {
+    text-align: justify;
+  }
+}
